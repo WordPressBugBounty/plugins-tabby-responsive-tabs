@@ -1,8 +1,8 @@
 === Tabby Responsive Tabs ===
 Contributors: numeeja
 Donate link: https://cubecolour.co.uk/wp
-Tags: tabs, tab, responsive, accordion, shortcode, ClassicPress
-Tested up to: 6.5.2
+Tags: tabs, tab, responsive, accordion, shortcode
+Tested up to: 6.8.1
 Stable tag: 1.4.1
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
